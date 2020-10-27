@@ -1,0 +1,14 @@
+<div class="container">
+  <nav class="top-nav">
+    <ul class="nav-list">
+      <li class="nav-list__item">Home</li>
+      <li class="nav-list__item">About</li>
+    </ul>
+  </nav>
+ <div class="wrapper">
+  <article id="red"> Section 1
+  </article>
+  <article id="blue">Section 2 </article>
+  <article id="green">Section 3 </article>
+  <article id="purple">Section 4 </article>
+</div>
